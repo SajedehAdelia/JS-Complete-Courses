@@ -1,1 +1,1 @@
-# JS-Complete-Courses
+# js-complete-course
